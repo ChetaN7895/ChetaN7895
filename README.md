@@ -1,6 +1,10 @@
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Chetan Solanki</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+
+https://github.com/ChetaN7895/ChetaN7895/assets/151900157/a1c4e10b-16e7-4bcb-b796-f435737ba0d6
+
+
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzVleGVqNXZmc3hpOTgycWo3eXZjeHJqeWlpcWdqcDNtM2VlMjQ0ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif">
 <img align="right" alt="" width="300" src="<a href="/gif/code-fi-lofi-beats-to-coderelax-to-FvBVst" title="code-fi / lofi beats to code/relax to"><img src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif" alt="code-fi / lofi beats to code/relax to"></a><div style="font-size:11px;">make <a href="/" title="make a gif">action GIFs</a> like this at MakeaGif</div>
 
