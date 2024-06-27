@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Chetan Solanki</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="center" alt="coding" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzVleGVqNXZmc3hpOTgycWo3eXZjeHJqeWlpcWdqcDNtM2VlMjQ0ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif">
+<img align="right" alt="Programming" width="300" src="https://github.com/ChetaN7895/ChetaN7895/assets/151900157/c7645d0c-8968-4d9d-b429-cf5daf652f37">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chetan7895&label=Profile%20views&color=0e75b6&style=flat" alt="chetan7895" /> </p>
