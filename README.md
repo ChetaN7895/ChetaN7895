@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chetan7895" alt="chetan7895" /></a> </p>
 
-- 🔭 I’m currently Studying Computer Science **Learning website**
+- 🔭 I’m currently Studying Computer Science ****
 
 - 🌱 I’m currently learning **Frameworks , Python , Html5 , css , js**
 
