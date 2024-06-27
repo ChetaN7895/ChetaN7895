@@ -1,12 +1,14 @@
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Chetan Solanki</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt="coding" width="500" src="![image](https://github.com/ChetaN7895/ChetaN7895/assets/151900157/47002767-46c3-4f0f-a956-bf7d28843213)"
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chetan7895&label=Profile%20views&color=0e75b6&style=flat" alt="chetan7895" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chetan7895" alt="chetan7895" /></a> </p>
 
-- 🔭 I’m currently Studying Computer Science ****
+- 🔭 I’m currently Studying Computer Science ***
 
 - 🌱 I’m currently learning **Frameworks , Python , Html5 , css , js**
 
