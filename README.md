@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Chetan Solanki</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-https://github.com/ChetaN7895/ChetaN7895/assets/151900157/a1c4e10b-16e7-4bcb-b796-f435737ba0d6
 ![welcome to My Profile](https://github.com/ChetaN7895/ChetaN7895/assets/151900157/b0abcab4-8f76-4107-a221-a51290b3ed4b)
 
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzVleGVqNXZmc3hpOTgycWo3eXZjeHJqeWlpcWdqcDNtM2VlMjQ0ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif">
