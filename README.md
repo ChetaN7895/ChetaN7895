@@ -20,6 +20,7 @@
 - 🌱 I’m currently learning **Frameworks , Python , Html5 , css , js**
 
 <h3 align="left">Connect with me:YouTuBe == https://www.youtube.com/@Apnacodingworld-A1 </h3>
+<h3 align="left">Connect me on Linkeden = https://linkedin.com/in/https://www.linkedin.com/in/chetan-solanki-66a6842b5 </h3>
 <p align="left">
 </p>
 
@@ -37,14 +38,11 @@
 **ChetaN7895/ChetaN7895** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+👨‍💻 All of my projects are available at [https://youtube.com/@apnacodingworld-a1?si=AFtAXouBTIcUQKZh](https://youtube.com/@apnacodingworld-a1?si=AFtAXouBTIcUQKZh)
 
-- 👨‍💻 All of my projects are available at [https://youtube.com/@apnacodingworld-a1?si=AFtAXouBTIcUQKZh](https://youtube.com/@apnacodingworld-a1?si=AFtAXouBTIcUQKZh)
+<h3 align="left"> - 📫 How to reach me **chetansolanki6393@gmail.com** </h3>
 
-- 📫 How to reach me **chetansolanki6393@gmail.com**
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/chetan-solanki-66a6842b5" target="Linkeden"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chetan-solanki-66a6842b5" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://youtube.com/@apnacodingworld-a1?si=aftaxoubticuqkzh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@apnacodingworld-a1?si=aftaxoubticuqkzh" height="30" width="40" /></a>
-</p>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
