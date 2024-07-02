@@ -23,7 +23,7 @@
 
 - 🌱 I’m currently learning **Frameworks , Python , Html5 , css , js**
 
-- 👨‍💻 All of my projects are available at [www.youtube.com/@Apnacodingworld-A1](www.youtube.com/@Apnacodingworld-A1)
+- 👨‍💻 All of my projects are available at [https://www.youtube.com/@Apnacodingworld-A1]
 
 - 📫 How to reach me **chetansolanki6393@gmail.com**
 
