@@ -1,7 +1,6 @@
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Chetan Solanki</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<h3 align="left"> Contact Me : chetansolanki6393@gmail.com </h3>
  
  
 ![welcome to My Profile](https://github.com/ChetaN7895/ChetaN7895/assets/151900157/b0abcab4-8f76-4107-a221-a51290b3ed4b) ![200](https://github.com/ChetaN7895/ChetaN7895/assets/151900157/e18ace0a-c65d-4337-9a83-a181dd8e5f5a)
@@ -15,13 +14,24 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chetan7895" alt="chetan7895" /></a> </p>
 
-- 🔭 I’m currently Studying Computer Science ***
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chetan7895&label=Profile%20views&color=0e75b6&style=flat" alt="chetan7895" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chetan7895" alt="chetan7895" /></a> </p>
+
+- 🔭 I’m currently Studying Computer Science [Learning website](https://chetan7895.github.io/Learn-Tech/)
 
 - 🌱 I’m currently learning **Frameworks , Python , Html5 , css , js**
 
-<h3 align="left">Connect with me:YouTuBe == https://www.youtube.com/@Apnacodingworld-A1 </h3>
-<h3 align="left">Connect me on Linkeden = https://linkedin.com/in/https://www.linkedin.com/in/chetan-solanki-66a6842b5 </h3>
+- 👨‍💻 All of my projects are available at [www.youtube.com/@Apnacodingworld-A1](www.youtube.com/@Apnacodingworld-A1)
+
+- 📫 How to reach me **chetansolanki6393@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/chetan solanki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chetan solanki" height="30" width="40" /></a>
+<a href="https://instagram.com/chetansolanki_._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chetansolanki_._" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/apna coding world 🔓🔥" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="apna coding world 🔓🔥" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -34,22 +44,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chetan7895&" alt="chetan7895" /></p>
 
 
-<!--
-**ChetaN7895/ChetaN7895** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-👨‍💻 All of my projects are available at [https://youtube.com/@apnacodingworld-a1?si=AFtAXouBTIcUQKZh](https://youtube.com/@apnacodingworld-a1?si=AFtAXouBTIcUQKZh)
-
-<h3 align="left"> - 📫 How to reach me **chetansolanki6393@gmail.com** </h3>
-
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
