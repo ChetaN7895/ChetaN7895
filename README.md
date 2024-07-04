@@ -15,9 +15,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chetan7895" alt="chetan7895" /></a> </p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chetan7895&label=Profile%20views&color=0e75b6&style=flat" alt="chetan7895" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chetan7895" alt="chetan7895" /></a> </p>
+![687474703a2f2f692e696d6775722e636f6d2f304f50346f6f642e676966](https://github.com/ChetaN7895/ChetaN7895/assets/151900157/293ea5d4-0e20-428f-8eec-8e81baba8a38)
+
 
 - 🔭 I’m currently Studying Computer Science [Learning website](https://chetan7895.github.io/Learn-Tech/)
 
