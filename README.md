@@ -1,7 +1,7 @@
 
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Chetan Solanki</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Web Developer from India</h3>
  
  
 ![welcome to My Profile](https://github.com/ChetaN7895/ChetaN7895/assets/151900157/b0abcab4-8f76-4107-a221-a51290b3ed4b) ![200](https://github.com/ChetaN7895/ChetaN7895/assets/151900157/e18ace0a-c65d-4337-9a83-a181dd8e5f5a)
