@@ -22,7 +22,7 @@
 
 - 🔭 I’m currently Studying Computer Science [Learning website](https://chetan7895.github.io/Learn-Tech/)
 
-- 🌱 I’m currently learning **Frameworks , Python , Html5 , css , js**
+- 🌱 I’m currently learning **Frameworks , Python , HTML5 , CSS , JavaScript, ReactJs**
 
 - 👨‍💻 All of my projects are available at [https://www.youtube.com/@Apnacodingworld-A1]
 
