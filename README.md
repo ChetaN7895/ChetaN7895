@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Web Developer from India</h3>
  
  
-![welcome to My Profile](https://github.com/ChetaN7895/ChetaN7895/assets/151900157/b0abcab4-8f76-4107-a221-a51290b3ed4b) ![200](https://github.com/ChetaN7895/ChetaN7895/assets/151900157/e18ace0a-c65d-4337-9a83-a181dd8e5f5a)
+<p align="center"> <img src="./image.gif" alt="gif" /> </p>
 
 <img align="right" alt="coding" width="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzVleGVqNXZmc3hpOTgycWo3eXZjeHJqeWlpcWdqcDNtM2VlMjQ0ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif">
 <img align="right" alt="" width="280" src="<a href="/gif/code-fi-lofi-beats-to-coderelax-to-FvBVst" title="code-fi / lofi beats to code/relax to"><img src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif" alt="code-fi / lofi beats to code/relax to"></a><div style="font-size:11px;">make <a href="/" title="make a gif">action GIFs</a> like this at MakeaGif</div>
