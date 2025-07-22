@@ -4,10 +4,10 @@
 <h3 align="center">A passionate Web Developer from India</h3>
  
  
-<p align="center"> <img src="./image.gif" alt="gif" /> </p>
+![Image](https://github.com/user-attachments/assets/cc2b06fc-dfce-4d9f-9ce8-8714e556b644)
 
 <img align="right" alt="coding" width="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzVleGVqNXZmc3hpOTgycWo3eXZjeHJqeWlpcWdqcDNtM2VlMjQ0ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif">
-<img align="right" alt="" width="280" src="<a href="/gif/code-fi-lofi-beats-to-coderelax-to-FvBVst" title="code-fi / lofi beats to code/relax to"><img src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif" alt="code-fi / lofi beats to code/relax to"></a><div style="font-size:11px;">make <a href="/" title="make a gif">action GIFs</a> like this at MakeaGif</div>
+<img align="right" alt="" width="280" src="<a href="/gif/code-fi-lofi-beats-to-coderelax-to-FvBVst" title="code-fi / lofi beats to code/relax to"><img src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif" alt="code-fi / lofi beats to code/relax to"></a><div style="font-size:11px;"> <a href="/" title="make a gif"></a> </div>
 
 
 
