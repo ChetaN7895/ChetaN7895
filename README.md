@@ -32,7 +32,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/chetan-solanki-66a6842b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chetan solanki" height="30" width="40" /></a>
 <a href="https://instagram.com/chetansolanki_._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chetansolanki_._" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@Apnacodingworld-A1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="apna coding world 🔓🔥" height="30" width="40" /></a>
+<a href="https://[www.youtube.com/@TechOpTrack]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Tech Op Track 🔓🔥" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
